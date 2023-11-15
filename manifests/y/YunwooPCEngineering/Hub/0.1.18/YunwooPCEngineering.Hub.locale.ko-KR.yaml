@@ -1,0 +1,19 @@
+# Created using wingetcreate 1.5.7.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.5.0.schema.json
+
+PackageIdentifier: YunwooPCEngineering.Hub
+PackageVersion: 0.1.18
+PackageLocale: ko-KR
+Publisher: YunwooPC Engineering
+PublisherUrl: http://yunwoopc.co.kr/
+PublisherSupportUrl: http://yunwoopc.co.kr/
+Author: YunwooPC Engineering
+PackageName: Hub
+PackageUrl: http://yunwoopc.co.kr/
+License: Commercial License
+Copyright: Commercial
+ShortDescription: Hub Setup
+Moniker: Hub
+ReleaseNotes: 0.1.17
+ManifestType: defaultLocale
+ManifestVersion: 1.5.0
